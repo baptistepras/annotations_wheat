@@ -49,3 +49,7 @@ python annotate.py
 ## Output
 
 Annotations are saved to `annotations.json` with point coordinates for each image.
+
+## OLD_annotate.py
+
+This is the script to annotate wheat and pea from the linear meters of the orthomosaic (just put here as a bigger annotator with more possibilities).
